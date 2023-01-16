@@ -7,4 +7,4 @@
 
 ## 객체지향의 사실과 오해
 - [01. 협력하는 객체들의 공동체](https://www.notion.so/2-950822d02b224f9dab212cb25cd52738)
-- [02 ~ 03 이상한 나라의 객체 + 타입과 추상화](https://www.notion.so/3-778d5dbecac24480811be80e1e465eca)
+- [02 ~ 03. 이상한 나라의 객체 + 타입과 추상화](https://curvy-roast-a88.notion.site/3-778d5dbecac24480811be80e1e465eca)
